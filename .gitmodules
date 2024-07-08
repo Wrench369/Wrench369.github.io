@@ -1,0 +1,3 @@
+[submodule "EndlessLearningHub/themes/hugo-bearblog"]
+	path = EndlessLearningHub/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
